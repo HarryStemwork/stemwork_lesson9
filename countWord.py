@@ -32,6 +32,7 @@ Old MacDonald had a farm,
 E I E I O
 Old MacDonald had a farm,
 E I E I O"""
+mydict = {}
 
 lower_word = #how to do lower case
 replace_ch = #how to replace every ","
